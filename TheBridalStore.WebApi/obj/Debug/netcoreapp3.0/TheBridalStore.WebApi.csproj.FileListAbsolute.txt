@@ -1,0 +1,6 @@
+/Users/mac/gaurav/TheBridalStore.DotNetCoreAngular.Poc/TheBridalStore.WebApi/obj/Debug/netcoreapp3.0/TheBridalStore.WebApi.csprojAssemblyReference.cache
+/Users/mac/gaurav/TheBridalStore.DotNetCoreAngular.Poc/TheBridalStore.WebApi/obj/Debug/netcoreapp3.0/staticwebassets/TheBridalStore.WebApi.StaticWebAssets.Manifest.cache
+/Users/mac/gaurav/TheBridalStore.DotNetCoreAngular.Poc/TheBridalStore.WebApi/obj/Debug/netcoreapp3.0/staticwebassets/TheBridalStore.WebApi.StaticWebAssets.xml
+/Users/mac/gaurav/TheBridalStore.DotNetCoreAngular.Poc/TheBridalStore.WebApi/obj/Debug/netcoreapp3.0/TheBridalStore.WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/mac/gaurav/TheBridalStore.DotNetCoreAngular.Poc/TheBridalStore.WebApi/obj/Debug/netcoreapp3.0/TheBridalStore.WebApi.AssemblyInfoInputs.cache
+/Users/mac/gaurav/TheBridalStore.DotNetCoreAngular.Poc/TheBridalStore.WebApi/obj/Debug/netcoreapp3.0/TheBridalStore.WebApi.AssemblyInfo.cs
